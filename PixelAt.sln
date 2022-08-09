@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PixelAt", "PixelAt\PixelAt.vcxproj", "{9757A27F-8622-400B-9981-265EC62A7EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x32 = Debug|x32
+		Debug|x64 = Debug|x64
+		Release|x32 = Release|x32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9757A27F-8622-400B-9981-265EC62A7EAE}.Debug|x32.ActiveCfg = Debug|Win32
+		{9757A27F-8622-400B-9981-265EC62A7EAE}.Debug|x32.Build.0 = Debug|Win32
+		{9757A27F-8622-400B-9981-265EC62A7EAE}.Debug|x64.ActiveCfg = Debug|x64
+		{9757A27F-8622-400B-9981-265EC62A7EAE}.Debug|x64.Build.0 = Debug|x64
+		{9757A27F-8622-400B-9981-265EC62A7EAE}.Release|x32.ActiveCfg = Release|Win32
+		{9757A27F-8622-400B-9981-265EC62A7EAE}.Release|x32.Build.0 = Release|Win32
+		{9757A27F-8622-400B-9981-265EC62A7EAE}.Release|x64.ActiveCfg = Release|x64
+		{9757A27F-8622-400B-9981-265EC62A7EAE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D6104CB-5729-42FA-B8E0-D04BB4509099}
+	EndGlobalSection
+EndGlobal
