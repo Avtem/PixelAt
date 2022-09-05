@@ -1,3 +1,8 @@
-This project is and will be "local-only", because I am the only person who works on it.
-I uploaded this code only to allow peeking at the source code. It will not build on any other machine,
-because it may require rewriting the whole source code, but it allows to view the code here - so that's why I uploaded it here.
+# -3
+
+Kod źródłowy do mojego programu PixelAt
+
+PROSZĘ TO PRZECZYTAĆ!!!
+
+Każda linia tego kodu była napisana z myślą, że nikt oprócz mnie nie będzie jej czytać czy próbować zbudować(build) mój program na innym urządzeniu. Ma się rozumieć, że mój kod będzie wyglądać inaczej gdybym pracował z zespołem lub zamierzałbym umieścić kod dla każdego, kto zechce go oglądać.
+Ale Github umożliwia oglądanie kodu z podświetlaniem składników języka C++, więc umieściłem tutaj go, żeby Państwo mogli go obejrzeć i dowiedzieć się jak mniej-więcej wyglądają moje programy.
