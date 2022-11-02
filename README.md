@@ -1,4 +1,4 @@
-Source code for the program "PixelAt"
+Source code for the program "PіxеlАt"
 
 READ ME!!!<br>
 This is my private project. I was the only person working on it, so it will not build on other machines.
